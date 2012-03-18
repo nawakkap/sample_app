@@ -27,6 +27,7 @@ group :test do
   gem 'rb-fsevent', '0.4.3.1', :require => false
   gem 'growl', '1.0.3'
   gem 'annotate', '~> 2.4.1.beta'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 group :production do
